@@ -3,7 +3,7 @@
 ## Overview
 POWER Vision is a pivotal application for electrical grid operators, providing advanced tools to monitor and manage grid stability and efficiency. It offers comprehensive insights into grid performance metrics and enables real-time decision-making through its intuitive interface.
 
-![Main Page](https://github.com/shahzada-shah/championtierlist/blob/main/assets/login.png)
+![Main Page](https://github.com/shahzada-shah/powervision/blob/main/assets/login.png)
 
 ## Tech Stack
 - **Frontend**: ReactJS
@@ -24,14 +24,14 @@ Engineered with the PERN stack and fully integrated into AWS, POWER Vision deliv
 3. **Responsive Interface:** Crafted to provide a seamless experience on both desktop and mobile platforms.
 4. **Enhanced Security: ** Adopts industry-standard security measures to safeguard grid data and user interactions.
 
-![Main Page](https://github.com/shahzada-shah/championtierlist/blob/main/assets/hero.png)
-![Main Page](https://github.com/shahzada-shah/championtierlist/blob/main/assets/table.png)
+![Main Page](https://github.com/shahzada-shah/powervision/blob/main/assets/hero.png)
+![Main Page](https://github.com/shahzada-shah/powervision/blob/main/assets/table.png)
 
 
 ## Live Demo on AWS
 Experience the capabilities of POWER Vision with our live demo hosted on AWS:
 
-URL: [POWER Vision Live Demo](http://raidchampfinder.s3-website-us-east-1.amazonaws.com)
+URL: [POWER Vision Live Demo](http://hslcalc.s3-website-us-east-1.amazonaws.com/#)
 
 Test Credentials: <br/>
 Username: sshah <br/>
