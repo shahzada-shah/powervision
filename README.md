@@ -22,7 +22,7 @@ Engineered with the PERN stack and fully integrated into AWS, POWER Vision deliv
 1. **Real-Time Monitoring:** Track grid performance and anomalies as they happen.
 2. **Advanced Analytics:** Utilize detailed data analysis for predictive maintenance and operational efficiency.
 3. **Responsive Interface:** Crafted to provide a seamless experience on both desktop and mobile platforms.
-4. **Enhanced Security: ** Adopts industry-standard security measures to safeguard grid data and user interactions.
+4. **Enhanced Security:** Adopts industry-standard security measures to safeguard grid data and user interactions.
 
 ![Main Page](https://github.com/shahzada-shah/powervision/blob/main/assets/hero.png)
 ![Main Page](https://github.com/shahzada-shah/powervision/blob/main/assets/table.png)
